@@ -1,2 +1,1 @@
-# Kuriko.Moe
-可愛いくりこです
+![Stats](https://github-readme-stats.vercel.app/api?username=kurikomoe&show_icons=true)
